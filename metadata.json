@@ -1,0 +1,6 @@
+{
+  "name": "Tangkap Kecoak Kuis - Penilaian Puisi Kelas 8",
+  "description": "Game edukasi interaktif Bahasa Indonesia Kelas 8 materi puisi: tepuk kecoak dengan jawaban benar, catat waktu, dan rekap nilai otomatis untuk guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
